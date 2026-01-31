@@ -1,0 +1,7 @@
+{
+  "name": "Assistenza Remota PC",
+  "description": "Sito professionale one-page per servizi di assistenza informatica da remoto in tutta Italia.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
